@@ -5,4 +5,9 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+
+A cat-lover who loves being challenged by technology problems.
+
+He also loves beer and running. Sometimes he likes to cycle out of the city.
+
+He created this blog to share his knowledge, experiences in the web development field.

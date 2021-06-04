@@ -17,12 +17,11 @@ timezone: Asia/Ho_Chi_Minh
 # --------------------------
 title: HienTD                          # the main title
 
-# tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: A Full-stack Django Developer   # it will display as the sub-title
 
-# description: >-                        # used by seo meta and the atom feed
-#   A minimal, portfolio, sidebar,
-#   bootstrap Jekyll theme with responsive web design
-#   and focuses on text presentation.
+description: >-                        # used by seo meta and the atom feed
+  A cat-lover who loves being
+  challenged by technology problems.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.hientd.com'
@@ -88,6 +87,7 @@ paginate: 10
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
+  input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
